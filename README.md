@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadra</h1>
 <h3 align="center">A passionate Game Developer, Data Scientist, and last but not least, a Programmer with a primary focus on Game Development.</h3>
 
-- 🌱 I’m currently learning **Online Game Development**
+- 🌱 I’m currently learning **RPG game development with Unreal Engine**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://sadraheidarymoghadam.com)
 
